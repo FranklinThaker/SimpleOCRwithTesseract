@@ -23,6 +23,9 @@ Library Requirements:
 4. Image
 5. Pillow || pillow
 6. OpenCV
+7. cv2
+8. numpy
+9. os
 
 1. First process the image
 

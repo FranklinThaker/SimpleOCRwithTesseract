@@ -1,13 +1,13 @@
 ## Requirements
 
 `sudo apt-get install python-imaging` <<also called Pillow
-	Python Imaging Library is a free library for the Python programming language that adds support for opening, manipulating, and saving man
+	Python Imaging Library is a free library for the Python programming language that adds support for opening, manipulating, and saving time. It also provides
 different image file formats. It is available for Windows, Mac OS X and Linux.
 
 `sudo apt-get install tesseract-ocr`
 Tesseract is an optical character recognition engine for various operating systems. It is free software, released under the Apache License, 
 Version 2.0, and development has been sponsored by Google since 2006. In 2006, Tesseract was considered one of the most accurate open-source 
-OCR engines then available
+OCR engines available at that time.
 
 `sudo apt-get install python-opencv`
 OpenCV. ... Right now, OpenCV supports a lot of algorithms related to Computer Vision and Machine Learning and it is expanding day-by-day. 
